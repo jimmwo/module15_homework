@@ -1,0 +1,46 @@
+body {
+    padding: 10px;
+}
+.btn_text {
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.btn_icon {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    font-size: 15px;
+}
+
+.hide {
+    display: none;
+}
+
+input {
+    width: 300px;
+    height: 40px;
+}
+
+#chatBlock {
+    border: 1px solid #000;
+    margin-top: 20px;
+    padding: 10px;
+    width: 600px;
+}
+
+.request {
+    float: left;
+}
+
+.response {
+    float: right;
+}
+
+.message {
+    border: solid 2px dodgerblue;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+
+}
